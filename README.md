@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abay</h1>
+<h1 align="center">Sup</h1>
 <h3 align="center">Network Engineer from Kazakhstan</h3>
 
 - 🌱 I’m currently learning **Ansible**
