@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abay</h1>
 <h3 align="center">Network Engineer from Kazakhstan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bizhanovv&label=Profile%20views&color=0e75b6&style=flat" alt="bizhanovv" /> </p>
-
 - 🌱 I’m currently learning **Ansible**
 
 - 💬 Ask me about **Network, Servers**
