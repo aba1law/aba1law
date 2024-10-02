@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Ansible<br>🎯 Goals: DevOps<br>🎲 Fun fact: idk</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Ansible<br>🎯 Goals: DevOps<br>🎲 Fun fact: actually a more creative person </p>
 
 ###
 
